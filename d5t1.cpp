@@ -1,0 +1,2 @@
+Task 1: Study the basic Sorting algorithms ( Bubble, Selection and Insertion). Also focus in its Time and space complexities, stability, and in place or not.
+You may follow any video/documentation!
